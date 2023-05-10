@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Aman, a first-year Engineering student at the National University of Singapore 🦁</div>  
+### <div align="center">I'm Aman, a first-year Engineering student at the [National University of Singapore](https://nus.edu.sg) 🦁</div>  
   
 
 - 🔭 I’m currently working on [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)  
