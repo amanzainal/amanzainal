@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Aman, a first-year Engineering student at the [National University of Singapore](https://nus.edu.sg) 🦁</div>  
+### <div align="center">I'm Aman, a sophomore at the [National University of Singapore](https://nus.edu.sg) 🦁</div>  
   
 
 - 🔭 I’m currently working on [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)  
   
 
-- 🌱 I’m currently learning about Streamlit and OAuth 2.0  
+- 🌱 I’m currently learning about MIPS and Assembly  
   
 
-- 🧠 I compete in CTFs in my free time!  
+- 🧠 In my free time, I play puzzle games!   
   
 
 <br/>  
