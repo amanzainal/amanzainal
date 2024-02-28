@@ -6,10 +6,10 @@
 ### <div align="center">I'm Aman, a sophomore at the [National University of Singapore](https://nus.edu.sg) 🦁</div>  
   
 
-- 🔭 I’m currently working on [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)  
+- 🔭 I’m currently working on [a Chatbot application](https://github.com/amanzainal/ip)  
   
 
-- 🌱 I’m currently learning about MIPS and Assembly  
+- 🌱 I’m currently learning about JavaFX and Gradle!  
   
 
 - 🧠 In my free time, I play puzzle games!   
