@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Aman, a rising junior at the [National University of Singapore](https://nus.edu.sg) 🦁</div>  
+### <div align="center">I'm Aman, a junior at the [National University of Singapore](https://nus.edu.sg) 🦁</div>  
   
 
 - 🔭 I’m currently working at [KABAM Robotics](https://www.kabam.ai) on various backend and DevOps projects as a software engineering intern.  
@@ -51,15 +51,17 @@
 </div>  
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amanzainal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=amanzainal&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<br/>  
 
-</td><td valign="top" width="50%">
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12171479062&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanzainal&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<br/>  
 
-</td></tr></table>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=amanzainal&&style=flat-square" align="center" />
+</div>  
 
 ## Connect with me  
 <div align="center">
@@ -69,7 +71,3 @@
 </a>
 
 </div>  
-  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
