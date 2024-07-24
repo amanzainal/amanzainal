@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Aman, a sophomore at the [National University of Singapore](https://nus.edu.sg) 🦁</div>  
+### <div align="center">I'm Aman, a rising junior at the [National University of Singapore](https://nus.edu.sg) 🦁</div>  
   
 
-- 🔭 I’m currently working on [a Chatbot application](https://github.com/amanzainal/ip)  
+- 🔭 I’m currently working at [KABAM Robotics](https://www.kabam.ai) on various backend and DevOps projects as a software engineering intern.  
   
 
-- 🌱 I’m currently learning about JavaFX and Gradle!  
+- 🌱 I’m currently learning about NextJS, React, 3JS, and other web development technologies for my personal portfolio!  
   
 
 - 🧠 In my free time, I play puzzle games!   
@@ -25,7 +25,9 @@
 
 ### Frontend  
 <div align="center">  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs-icon.svg" alt="NextJS" height="50" /></a>  
+<a href="https://threejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/threejs-icon.svg" alt="ThreeJS" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -40,6 +42,10 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://docs.celeryproject.org/en/stable/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/celery.png" alt="Celery" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -53,6 +59,8 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 </div>
 
 </td></tr></table>  
