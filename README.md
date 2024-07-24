@@ -6,7 +6,7 @@
 ### <div align="center">I'm Aman, a junior at the [National University of Singapore](https://nus.edu.sg) 🦁</div>  
   
 
-- 🔭 I’m currently working at [KABAM Robotics](https://www.kabam.ai) on various backend and DevOps projects as a software engineering intern.  
+- 🔭 I’m currently working at [KABAM Robotics](https://www.kabam.ai) as a software engineering intern.  
   
 
 - 🌱 I’m currently learning about NextJS, React, 3JS, and other web development technologies for my personal portfolio!  
