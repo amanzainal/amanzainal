@@ -60,7 +60,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=amanzainal&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=amanzainal&&style=flat-square&&base=10000&&abbreviated=true" align="center" />
 </div>  
 
 ## Connect with me  
