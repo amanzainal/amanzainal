@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=E5E7EB&center=true&vCenter=true&width=700&lines=Agentic+Software+Engineer;Computer+Science+%26+Mechanical+Engineering+%40+NUS+%2726;Rapid+Prototyping+%26+Systems+Design;High-Velocity+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Agentic+Software+Engineer;Computer+Science+%26+Mechanical+Engineering+%40+NUS;Rapid+Prototyping+%26+Systems+Design;High-Velocity+Engineering" alt="Typing SVG" />
 </p>
 
 - 🔭 Currently open to new opportunities.
