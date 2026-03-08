@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://socialify.git.ci/amanzainal/amanzainal/image?font=Source%20Code%20Pro&name=1&owner=0&pattern=Plus&theme=Dark&description=1&language=0&forks=0&issues=0&pulls=0&stargazers=0" alt="amanzainal Banner" width="750" height="250" />
+  <img src="https://socialify.git.ci/amanzainal/amanzainal/image?font=Source%20Code%20Pro&name=1&owner=0&pattern=Plus&theme=Dark&description=1&language=0&forks=0&issues=0&pulls=0&stargazers=0&v=1" alt="amanzainal Banner" width="750" height="250" />
 </p>
 
 <p align="center">
