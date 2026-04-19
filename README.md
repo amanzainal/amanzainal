@@ -6,16 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Agentic+Software+Engineer;Computer+Science+%26+Mechanical+Engineering+%40+NUS;Rapid+Prototyping+%26+Systems+Design;High-Velocity+Engineering" alt="Typing SVG" />
 </p>
 
-- 🔭 Currently open to new opportunities.
-  
-- ⚡ Pragmatic builder focused on shipping robust software. Utilising Cursor & Claude so I can spend my time on architecture and solving the actual hard problems.
-  
-- 🎮 In my free time, I play some games! Top 500 in Dota 2, Immortal 3 in Valorant, 2000 ELO in Chess, and many more to come..
-
-- 💻 Side quests: Working on building apps with [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
-  
-<br/>  
-
 ## 📈 My GitHub Activity
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
