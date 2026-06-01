@@ -6,6 +6,34 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Agentic+Software+Engineer;Computer+Science+%26+Mechanical+Engineering+%40+NUS;Rapid+Prototyping+%26+Systems+Design;High-Velocity+Engineering" alt="Typing SVG" />
 </p>
 
+## 🛠️ Featured Projects
+
+<div align="center"><strong>🧠 Local LLM &amp; Inference</strong></div>
+
+| Project | What it does |
+| :-- | :-- |
+| [**specdecode-roi**](https://github.com/amanzainal/specdecode-roi) | One-command, cross-runtime benchmark for whether speculative decoding / MTP is worth it on *your* model and GPU |
+| [**localtok**](https://github.com/amanzainal/localtok) | `htop` for local LLM inference — live tokens/sec, VRAM, loaded models |
+| [**mcp-gpu**](https://github.com/amanzainal/mcp-gpu) | An MCP server exposing local NVIDIA GPU stats + controls to any agent |
+
+<div align="center"><strong>🛡️ AI Safety, Provenance &amp; Supply-Chain</strong></div>
+
+| Project | What it does |
+| :-- | :-- |
+| [**rulewall**](https://github.com/amanzainal/rulewall) | Scan your dependency tree for poisoned AI-agent rule-files (`CLAUDE.md`/`.cursorrules`) shipped by malicious packages |
+| [**c2pa-stripcheck**](https://github.com/amanzainal/c2pa-stripcheck) | Automated tester + matrix for whether platforms strip C2PA Content Credentials |
+| [**deepfake-disclose**](https://github.com/amanzainal/deepfake-disclose) | One-command EU AI Act Article-50 disclosure for face-swap / voice-clone outputs |
+| [**mcp-deputy**](https://github.com/amanzainal/mcp-deputy) | RFC 8707 confused-deputy conformance prober + enforcing sidecar for MCP |
+
+<div align="center"><strong>🔧 Developer Tooling</strong></div>
+
+| Project | What it does |
+| :-- | :-- |
+| [**shot2issue**](https://github.com/amanzainal/shot2issue) | Turn a screenshot of a bug into a structured GitHub issue with repro steps |
+| [**dotfiles-agent**](https://github.com/amanzainal/dotfiles-agent) | Describe a config change in English; get a reviewable, safely-gated dotfile diff |
+
+<br/>
+
 ## 📈 My GitHub Activity
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
