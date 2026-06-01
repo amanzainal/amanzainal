@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Agentic+Software+Engineer;Computer+Science+%26+Mechanical+Engineering+%40+NUS;Rapid+Prototyping+%26+Systems+Design;High-Velocity+Engineering" alt="Typing SVG" />
 </p>
 
-## 🛠️ Featured Projects
+## Featured Projects
 
-<div align="center"><strong>🧠 Local LLM &amp; Inference</strong></div>
+### Local LLM &amp; Inference
 
 | Project | What it does |
 | :-- | :-- |
@@ -16,7 +16,7 @@
 | [**localtok**](https://github.com/amanzainal/localtok) | `htop` for local LLM inference — live tokens/sec, VRAM, loaded models |
 | [**mcp-gpu**](https://github.com/amanzainal/mcp-gpu) | An MCP server exposing local NVIDIA GPU stats + controls to any agent |
 
-<div align="center"><strong>🛡️ AI Safety, Provenance &amp; Supply-Chain</strong></div>
+### AI Safety, Provenance &amp; Supply-Chain
 
 | Project | What it does |
 | :-- | :-- |
@@ -25,16 +25,14 @@
 | [**deepfake-disclose**](https://github.com/amanzainal/deepfake-disclose) | One-command EU AI Act Article-50 disclosure for face-swap / voice-clone outputs |
 | [**mcp-deputy**](https://github.com/amanzainal/mcp-deputy) | RFC 8707 confused-deputy conformance prober + enforcing sidecar for MCP |
 
-<div align="center"><strong>🔧 Developer Tooling</strong></div>
+### Developer Tooling
 
 | Project | What it does |
 | :-- | :-- |
 | [**shot2issue**](https://github.com/amanzainal/shot2issue) | Turn a screenshot of a bug into a structured GitHub issue with repro steps |
 | [**dotfiles-agent**](https://github.com/amanzainal/dotfiles-agent) | Describe a config change in English; get a reviewable, safely-gated dotfile diff |
 
-<br/>
-
-## 📈 My GitHub Activity
+## GitHub Activity
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanzainal&theme=github-dark-dimmed&custom_title=Aman's%20Activity%20Graph&hide_border=true" alt="Aman's Activity Graph" />
@@ -43,7 +41,7 @@
 
 <br/>  
 
-## 🎵 Recently Played
+## Recently Played
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=12171479062&count=5&unique=true" alt="Spotify Recently Played" />
 </div>  
@@ -54,7 +52,7 @@
   <img src="https://komarev.com/ghpvc/?username=amanzainal&&style=flat-square&&base=10000&&abbreviated=true" align="center" />
 </div>  
 
-## 🔗 Connect with me  
+## Connect
 <div align="center">
 
 <a href="https://linkedin.com/in/amanzainal" target="_blank">
