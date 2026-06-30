@@ -1,65 +1,36 @@
 <p align="center">
-  <img src="https://socialify.git.ci/amanzainal/amanzainal/image?font=Source%20Code%20Pro&name=1&owner=0&pattern=Plus&theme=Dark&description=1&language=0&forks=0&issues=0&pulls=0&stargazers=0&v=1" alt="amanzainal Banner" width="750" height="250" />
+  <a href="https://amanzainal.com">
+    <img src="https://socialify.git.ci/amanzainal/amanzainal/image?font=Source%20Code%20Pro&name=1&owner=0&pattern=Plus&theme=Dark&description=1&language=0&forks=0&issues=0&pulls=0&stargazers=0&v=1" alt="Aman Zainal" width="750" height="250" />
+  </a>
+</p>
+
+<h1 align="center">Aman Zainal</h1>
+
+<p align="center">
+  AI / full-stack engineer in Singapore.<br />
+  I build production AI systems, developer tools, and useful software that gets shipped.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Agentic+Software+Engineer;Computer+Science+%26+Mechanical+Engineering+%40+NUS;Rapid+Prototyping+%26+Systems+Design;High-Velocity+Engineering" alt="Typing SVG" />
+  <a href="https://amanzainal.com">amanzainal.com</a> ·
+  <a href="https://linkedin.com/in/amanzainal">LinkedIn</a> ·
+  <a href="mailto:aman@u.nus.edu">Email</a>
 </p>
 
-## Featured Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/AI_agents-7C3AED?style=flat-square" alt="AI agents" />
+  <img src="https://img.shields.io/badge/local_GPUs-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Local GPUs" />
+</p>
 
-### Local LLM &amp; Inference
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12171479062&count=3&unique=true" alt="Spotify recently played" />
+</p>
 
-| Project | What it does |
-| :-- | :-- |
-| [**specdecode-roi**](https://github.com/amanzainal/specdecode-roi) | One-command, cross-runtime benchmark for whether speculative decoding / MTP is worth it on *your* model and GPU |
-| [**localtok**](https://github.com/amanzainal/localtok) | `htop` for local LLM inference — live tokens/sec, VRAM, loaded models |
-| [**mcp-gpu**](https://github.com/amanzainal/mcp-gpu) | An MCP server exposing local NVIDIA GPU stats + controls to any agent |
-
-### AI Safety, Provenance &amp; Supply-Chain
-
-| Project | What it does |
-| :-- | :-- |
-| [**rulewall**](https://github.com/amanzainal/rulewall) | Scan your dependency tree for poisoned AI-agent rule-files (`CLAUDE.md`/`.cursorrules`) shipped by malicious packages |
-| [**c2pa-stripcheck**](https://github.com/amanzainal/c2pa-stripcheck) | Automated tester + matrix for whether platforms strip C2PA Content Credentials |
-| [**deepfake-disclose**](https://github.com/amanzainal/deepfake-disclose) | One-command EU AI Act Article-50 disclosure for face-swap / voice-clone outputs |
-| [**mcp-deputy**](https://github.com/amanzainal/mcp-deputy) | RFC 8707 confused-deputy conformance prober + enforcing sidecar for MCP |
-
-### Developer Tooling
-
-| Project | What it does |
-| :-- | :-- |
-| [**shot2issue**](https://github.com/amanzainal/shot2issue) | Turn a screenshot of a bug into a structured GitHub issue with repro steps |
-| [**dotfiles-agent**](https://github.com/amanzainal/dotfiles-agent) | Describe a config change in English; get a reviewable, safely-gated dotfile diff |
-
-## GitHub Activity
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanzainal&theme=github-dark-dimmed&custom_title=Aman's%20Activity%20Graph&hide_border=true" alt="Aman's Activity Graph" />
-  </a>
-</div>
-
-<br/>  
-
-## Recently Played
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12171479062&count=5&unique=true" alt="Spotify Recently Played" />
-</div>  
-
-<br/>  
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanzainal&&style=flat-square&&base=10000&&abbreviated=true" align="center" />
-</div>  
-
-## Connect
-<div align="center">
-
-<a href="https://linkedin.com/in/amanzainal" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:amanakasyah@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
-</a>
-
-</div>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanzainal&style=flat-square&base=10000&abbreviated=true" alt="Profile views" />
+</p>
